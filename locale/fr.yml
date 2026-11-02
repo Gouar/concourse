@@ -6,7 +6,7 @@ ernestdefoe-concourse:
       show_contributors_label: "Afficher les meilleurs contributeurs"
       show_contributors_help: "Ceux qui ont reçu le plus de mentions J'aime (ou, sans l'extension Likes, ont écrit le plus de commentaires) pendant la période choisie. Seuls les échanges publics comptent."
       contributors_period_label: "Début des meilleurs contributeurs"
-      contributors_period_help: "La période que voit un visiteur au départ. Ils peuvent passer entre aujourd'hui, cette semaine, ce mois et cette année."
+      contributors_period_help: "La période que voit un visiteur en premier. Ils peuvent choisir entre aujourd'hui, cette semaine, ce mois et cette année."
       period_day: "Aujourd'hui"
       period_week: "Cette semaine"
       period_month: "Ce mois-ci"
